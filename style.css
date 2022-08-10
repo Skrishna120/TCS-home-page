@@ -1,0 +1,209 @@
+.navbar{
+    background-color: black;
+}
+ul li a{
+    color: #a1a1a1 !important ;
+}
+ul{
+    justify-content: space-between;
+    width: 80%;
+}
+
+#navbarNav{
+display: flex;
+justify-content: flex-end;
+font-size: 12px;
+}
+.firstHeader{
+    background-color: black;
+
+}
+
+.d-inline-flex img{
+    width: 40%;
+    border-radius: 100%;
+    border: 2px solid white;
+}
+
+.d-inline-flex {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.d-black{
+    background-color: black;
+}
+p{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+.fa-solid{
+    font-size: 20px;
+    color: #a1a1a1 !important;
+}
+
+.carousel-item active{
+    position: relative;
+    text-align: center;
+    color:antiquewhite ;
+}
+
+.note1{
+    position: absolute;
+    top: 150px;
+    left: 80px;
+    font-size: 45px;
+    color: #a1a1a1;
+    
+
+}
+
+.note2{
+    position: absolute;
+    top: 200px;
+    left: 80px;
+    font-size: 30px;
+    color: #a1a1a1;
+}
+.note3{
+    position: absolute;
+    bottom: 100px;
+    left: 80px;
+    font-size: 20px;
+    background-color: white;
+    
+    
+}
+
+.carousel-item {
+    position: relative;
+    text-align: center;
+    color:antiquewhite ; 
+}
+.notepad1{
+    position: absolute;
+    top: 200px;
+    left: 80px;
+    font-size: 45px;
+    color: #a1a1a1;
+
+}
+
+.notepad2{
+    position: absolute;
+    bottom: 230px;
+    left: 80px;
+    font-size: 30px;
+    color: #a1a1a1;
+}
+.notepad3{
+    position: absolute;
+    bottom: 20px;
+    left: 80px;
+    font-size: 20px;
+    color: #a1a1a1;
+    
+}
+
+.carousel-item {
+    position: relative;
+    text-align: center;
+    color:antiquewhite ;
+
+}
+
+.noted1{
+    position: absolute;
+    top: 300px;
+    left: 80px;
+    font-size: 50px;
+    color: #a1a1a1;
+
+}
+
+.noted2{
+    position: absolute;
+    top: 380px;
+    left: 80px;
+    font-size: 30px;
+    color: #a1a1a1;
+}
+
+
+#carouselExampleIndicators {
+    margin: 0;
+}
+
+.firstHeader{
+    margin: 0;
+}
+
+.firstcard {
+    background-color: black;
+}
+
+.card1{
+    width: 20%;
+    margin: 6%;
+}
+
+.card2{
+    width: 20%;
+    margin: 6%;
+}
+
+.card3{
+    width: 20%;
+    margin: 6%;
+}
+
+.running{
+ text-align: center;
+    width: 100%;
+}
+
+.run1{
+
+    top: 50px;
+    left: 50px;
+    color: white;
+    font-size: medium;
+}
+
+.run2{
+    
+    top: 100px;
+    left: 50px;
+    color: white;
+    font-size:xx-large;
+}
+
+.run3{
+  
+    top: 180px;
+    left: 50px;
+    color: white;
+    font-size:larger;
+}
+
+.run4 {
+    position:absolute;
+    bottom: 100px;
+    left: 50px;
+
+}
+
+
+.card-text{
+    color: black;
+}
+
+
+
+.card-img-top {
+    width: 50%;
+}
